@@ -627,6 +627,15 @@
             "url": "https://carbone.io",
             "desc": "The most efficient, low-code, and future-proof reporting solution: Generate documents dynamically from a JSON dataset and a template created from your favourite text editor. RiotJS powers the account manager of Carbone Cloud services.",
             "tags": "open-source, reporting, documents, low-code, pdf, docx, json, report builder, "
+        },
+        {
+            "id": "64",
+            "imgUrl": "img/flexbe.png",
+            "imgAlt": "Flexbe - No-code website builder",
+            "name": "Flexbe",
+            "url": "https://flexbe.com",
+            "desc": "Flexbe is a cutting-edge, simple-to-use yet powerful no-code website building platform with a wide range of features tailored for web creators to implement unique projects. It offers powerful tools like AI-driven section generation, animations, freeform section layouts, and integrations with popular services, making it ideal for creating landing pages, online stores, and business websites. With over 200 pre-made layouts, extensive customization options, built-in SEO and analytics, and support for ecommerce, Flexbe ensures a smooth experience from design to deployment, making managing complex websites effortless.",
+            "tags": "website builder, no-code, ai, design templates, customization, seo, analytics, animations, integrations, ecommerce, landing pages, online stores, business websites"
         }
     ]
 }
